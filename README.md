@@ -1,5 +1,9 @@
-# CS50 AI Project 5: Traffic
+# Traffic Sign Detector
 Write an AI to identify which traffic sign appears in a photograph.
+
+## How to run
+
+`python3 traffic.py gtsrb`
 
 ## Experimentation Process
 The experimentation process consists of changing the cofiguration of five layers in the CNN (Convolutional Neural Network).
