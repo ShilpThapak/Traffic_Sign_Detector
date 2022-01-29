@@ -1,6 +1,8 @@
 # Traffic Sign Detector
 Write an AI to identify which traffic sign appears in a photograph.
 
+Demo: https://www.youtube.com/watch?v=k5TJ6ti0pM4
+
 ## How to run
 
 `python3 traffic.py gtsrb`
